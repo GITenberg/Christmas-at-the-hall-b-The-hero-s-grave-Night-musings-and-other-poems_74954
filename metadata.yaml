@@ -1,0 +1,33 @@
+_repo: Christmas-at-the-hall-b-The-hero-s-grave-Night-musings-and-other-poems_74954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Terrington, T. J. (Thomas John)
+    alias: Terrington, Thomas John
+    birthdate: 1813
+    deathdate: 1864
+    gutenberg_agent_id: '57744'
+    url: http://www.gutenberg.org/2009/agents/57744
+description: ''
+gutenberg_issued: '2024-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74954'
+language: en
+pgterms:marc904: https://archive.org/details/christmasathallh00terr/page/n5/mode/2up
+pgterms:marc905: 20231130003957terrington
+pgterms:marc906: '1853'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bLongman, Green, and Longman, $c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcsh 'Christmas poetry'
+- !lcc 'PR'
+- GITenberg
+title: 'Christmas at the hall : $b The hero''s grave; Night musings, and other poems'
+url: http://www.gutenberg.org/ebooks/74954
