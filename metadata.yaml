@@ -1,5 +1,8 @@
 _repo: Christmas-at-the-hall-b-The-hero-s-grave-Night-musings-and-other-poems_74954
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74954-h/images/cover.jpg
 creator:
   author:
     agent_name: Terrington, T. J. (Thomas John)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57744'
     url: http://www.gutenberg.org/2009/agents/57744
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74954#Christmas-at-the-hall-b-The-hero-s-grave-Night-musings-and-other-poems
 gutenberg_issued: '2024-12-20'
 gutenberg_type: Text
 identifiers:
